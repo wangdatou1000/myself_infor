@@ -1,0 +1,8 @@
+*/dist/
+/.idea/
+*.iml
+*.ipr
+*.iws
+out
+*/node_modules/
+/target/
